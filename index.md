@@ -2,7 +2,7 @@
 
 - the TAs
 - the students
-- the TAs 
+- the TAs :wink:
 ---
 ## Welcome to GitHub Pages
 
